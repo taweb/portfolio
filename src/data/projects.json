@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Covid-19 Statistics",
+        "description": "A Covid-19 tracker app built using Vue.",
+        "tech": ["Vue", "Vuex", "HTML5", "CSS3", "Tailwind CSS"],
+        "img": "covidstats.png",
+        "links": [
+            {
+                "name": "repo",
+                "url": "https://github.com/taweb/covid-19-tracker"
+            },
+            {
+                "name": "app",
+                "url": "https://www.covid.tatherton.com/" 
+            }
+        ]
+    },
+    {
+        "name": "Conway Game of Life",
+        "description": "An attempt to recreate the classic 1970s cellular evolution game using React.",
+        "tech": ["React", "HTML5", "CSS3"],
+        "img": "lifegame.png",
+        "links": [
+            {
+                "name": "repo",
+                "url": "https://github.com/taweb/conway-game-of-life"
+            }
+        ]
+    },
+    {
+        "name": "24 Hours of Earthquakes",
+        "description": "Inspired by mobile apps installed on my phone in the past, the app tracks global earthquake activity from the last 24 hours and displays the data in a visual way using the Google Maps React Native plugin.",
+        "tech": ["React Native", "HTML5", "CSS3"],
+        "img": "24hoursearthquakes.png",
+        "links": [
+            {
+                "name": "repo",
+                "url": "https://github.com/taweb/24-hours-of-earthquakes-app"
+            }
+        ]
+    },
+    {
+        "name": "Table Tennis Tournament Generator",
+        "description": "The app generates a table tennis tournament structure from a list of names provided by the user.",
+        "tech": ["React", "HTML5", "CSS3"],
+        "img": "tabletennisgenerator.png",
+        "links": [
+            {
+                "name": "repo",
+                "url": "https://github.com/taweb/table-tennis-tool"
+            },
+            {
+                "name": "app",
+                "url": "http://tim.developme.space/" 
+            }
+        ]
+    },
+    {
+        "name": "Login and Registration System",
+        "description": "Generic user signup and login system including email verification, sessions, and password update functionality.",
+        "tech": ["PHP", "HTML5", "CSS3"],
+        "img": "loginsystem.png",
+        "links": [
+            {
+                "name": "repo",
+                "url": "https://github.com/taweb/login-registration-system"
+            }
+        ]
+    },
+    {
+        "name": "Film Guide",
+        "description": "The app fetches daily Freeview film information from an API and displays the data in list and detail views.",
+        "tech": ["React Native", "HTML5", "CSS3"],
+        "img": "filmguide.png",
+        "links": [
+            {
+                "name": "repo",
+                "url": "https://github.com/taweb/film-guide-app"
+            }
+        ]
+    }
+]
