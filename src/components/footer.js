@@ -23,7 +23,7 @@ const StyledAnchor = styled.a`
 const Footer = ({className, path}) => {
     return (
         <StyledFooter className={className}>
-            <p>Made with <StyledAnchor href='https://www.gatsbyjs.org/' path={path}>Gatsby</StyledAnchor> &#128640;, check out the <StyledAnchor href='https://github.com/taweb/portfolio-gatsby' path={path}>repo</StyledAnchor></p>
+            <p>Made with <StyledAnchor href='https://www.gatsbyjs.org/' path={path}>Gatsby</StyledAnchor> &#128640;, check out the <StyledAnchor href='https://github.com/taweb/portfolio' path={path}>repo</StyledAnchor></p>
             <p>{new Date().getFullYear()} Tim Atherton</p>
         </StyledFooter>
     );

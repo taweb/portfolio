@@ -22,7 +22,7 @@ const SocialLinks = ({className, color}) => {
             <CustomLink
                 type={'none'}
                 as='a'
-                href='https://www.linkedin.com/in/tim-atherton-7726bb5a/'
+                href='https://www.linkedin.com/in/t-atherton/'
                 color={color}
             >
                 LinkedIn

@@ -8,10 +8,6 @@
             {
                 "name": "repo",
                 "url": "https://github.com/taweb/covid-19-tracker"
-            },
-            {
-                "name": "app",
-                "url": "https://www.covid.tatherton.com/" 
             }
         ]
     },
@@ -48,10 +44,6 @@
             {
                 "name": "repo",
                 "url": "https://github.com/taweb/table-tennis-tool"
-            },
-            {
-                "name": "app",
-                "url": "http://tim.developme.space/" 
             }
         ]
     },

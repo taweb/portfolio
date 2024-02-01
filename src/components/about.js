@@ -48,9 +48,9 @@ const About = () => {
                         justifySelf: "center"
                     }}
                 />
-                <Summary>Hello, I'm Tim Atherton, a Web Developer based in Bristol, UK. I have 2 years of front-end web development experience, developing user interfaces for apps (using React) and websites.</Summary>
-                <p>I have recently been working at <a href="https://appeal.digital/">Appeal Digital</a>, a growing and fast paced web design and development agency based in Bristol.</p>
-                <p>In my spare time I am a keen rower and enjoy competing with the team at various local and national events throughout the year. I love travelling to interesting corners of the world (I already have Japan in mind for the next big trip!) and also have an obsession with Glastonbury Festival having attended the last 6 years in a row.</p>
+                <Summary>Hello, I'm Tim Atherton, a software engineer based in Bristol, UK. I have 5 years of experience developing web applications of varying scales and complexity.</Summary>
+                <p>I have recently been working at <a href="https://www.wazoku.com/">Wazoku</a>, a growing innovation management company based in London but operating globally.</p>
+                <p>In my spare time I enjoy attending running club, live music, comedy and travelling. I'm slightly obsessed with Glastonbury Festival having attended 8 years in a row. I studied Earth Sciences at university and maintain a strong interest in the natural world.</p>
             </Container>
         </>
      );

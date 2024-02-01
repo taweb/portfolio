@@ -1,8 +1,6 @@
 ---
 title: 'Work'
 ---
-I'm a Bristol based web developer, with 2 years of front-end development experience developing apps and websites.
+I am a Bristol based software engineer, with 5 years of experience developing web applications of various scales using a variety of frameworks in agile teams. I am enthusiastic and detail-oriented, always eager to share knowledge to help the team meet objectives.
 
-I have recently been working at [Appeal Digital](https://appeal.digital/), a web design and development agency which provides content managed websites for clients. It has been valuable experience to work in a fast paced environment to meet project timeframes and building sites to design and functional specification.
-
-I am now looking to move into an app development focused role, following on from my experience at Flexidb where I contributed to several React + Redux projects including implementing a [SWOT Analysis tool](https://www.minddoodle.com/features/swot-analysis/) (strengths, weaknesses, opportunities and threats) for Mind Doodle.
+I have recently been working at [Wazoku](https://www.wazoku.com/), a fast growing innovation management company. I was a member of a team responsible for the ongoing development of the core Wazoku Idea Spotlight platform. Duties included liaising with project, quality assurance and design teams to deliver new features, maintaining and expanding the test suite, creating reusable UI components and documenting these in a UI library (Storybook) and occasionally assisting in a production support capacity.

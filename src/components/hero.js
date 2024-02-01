@@ -110,7 +110,7 @@ const Hero = () => {
             <HeaderContainer>
                 <HeaderText>
                     <PrimaryText>Tim Atherton</PrimaryText>
-                    <SecondaryText>I'm a Web Developer in Bristol, UK</SecondaryText>
+                    <SecondaryText>I'm a Software Engineer in Bristol, UK</SecondaryText>
                 </HeaderText>
                 <QuickLinkContainer>
                     <StyledCustomLink to='/skills' type={'normal'} color={colors.white} highlight={colors.redDarkened}>Skills & Experience</StyledCustomLink>
