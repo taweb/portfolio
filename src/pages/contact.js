@@ -18,9 +18,11 @@ const Input = styled.input`
     &:focus {
         outline: 3px solid black;
     }
+    margin-bottom: 1rem;
 `
 
 const SmallInput = styled(Input)`
+    margin-bottom: 1rem;
     @media (${breakPoints.mobile}) {
       width: 250px;
     }
@@ -54,18 +56,18 @@ const ContactPage = () => {
                         <Label htmlFor='bot-field'>Don't fill this in if you're a human</Label>
                         <Input name='bot-field' id='bot-field'/> 
                     </HiddenInput>
-                    <p>
+                    <div>
                         <Label htmlFor='name'>Full Name</Label>
                         <SmallInput type='text' name='name' id='name' required />
-                    </p>
-                    <p>
+                    </div>
+                    <div>
                         <Label htmlFor='email'>Email</Label>
                         <SmallInput type='email' name='email' id='email' required />
-                    </p>
-                    <p>
+                    </div>
+                    <div>
                         <Label htmlFor='message'>Message</Label>
                         <TextInput as='textarea' name='message' type='text' id='message' required />
-                    </p>
+                    </div>
                     <Button as='button' type='submit'>Send</Button>
                 </form>
             </PageContent>

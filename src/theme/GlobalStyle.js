@@ -44,7 +44,7 @@ export const GlobalStyle = createGlobalStyle`
         font-size: ${fontSizes.medium};
     }
 
-    p {
+    p, label {
         font-size: ${fontSizes.normal};
         margin-bottom: 1rem;
     }
